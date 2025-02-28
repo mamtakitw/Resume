@@ -1,7 +1,7 @@
 # Resume Project  
 # This is my resume webpage. 
 ## Project URL  
-[Live Project](https://mamtakitw.github.io/Resume/)  
+<a href="https://github.com/mamtakitw/Resume.git">
 
 <!DOCTYPE html>
 <html>
